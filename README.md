@@ -1,4 +1,4 @@
-# rede-de-relacionamentos
+# iFace
 
 ### (Considerar funcionalidades 1, 3, 7 e 8)
 
